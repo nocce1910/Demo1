@@ -1,0 +1,27 @@
+ol{
+    display: inline-block;
+    position: relative
+    
+
+}
+
+
+h1{
+    color: red;
+    font-style: italic;
+    font-style: underline;
+    padding: 0%;
+    /* Detta är ett sätt att skriva kommentarer */
+
+}
+
+p {
+    color: rgb(153, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img {
+width: 500px;
+
+}
